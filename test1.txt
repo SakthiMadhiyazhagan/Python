@@ -1,6 +1,14 @@
 Create test1.txt
 print 'hello'
 
-Git Commands:
+Git Commands (cmd prompt):
 git config --global user.name "SakthiMadhiyazhagan"
 git config --global user.email "sakthimadhiyazhagan@gmail.com"
+
+
+VS Commands:
+git clone https://github.com/SakthiMadhiyazhagan/Python.git
+git add test2.txt
+git status
+git commit -m "test2 file added"
+git push origin main
