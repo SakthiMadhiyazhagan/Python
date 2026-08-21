@@ -1,2 +1,6 @@
 Create test1.txt
 print 'hello'
+
+Git Commands:
+git config --global user.name "SakthiMadhiyazhagan"
+git config --global user.email "sakthimadhiyazhagan@gmail.com"
