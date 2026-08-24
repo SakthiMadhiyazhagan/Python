@@ -23,3 +23,11 @@ git remote add origin https://github.com/SakthiMadhiyazhagan/SQL.git
 git branch    ** to identify master/main
 git branch -m main  ** to change the branch name
 git push origin main
+
+git branch -a
+git checkout sqlbr1   ** switch branch
+git pull
+git push origin sqlbr1
+git diff sqlbr1
+git merge sqlbr1   ** join new file to branch
+git branch sqlbr3
